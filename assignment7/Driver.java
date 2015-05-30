@@ -10,7 +10,7 @@ public class Driver {
 	
 	public static int[] getArray(int max){
 			
-		//1st problem
+		//1st 
 			for(int i = 0; i<max; i++){
 				if(i%2 == 0){
 					counterE++;
